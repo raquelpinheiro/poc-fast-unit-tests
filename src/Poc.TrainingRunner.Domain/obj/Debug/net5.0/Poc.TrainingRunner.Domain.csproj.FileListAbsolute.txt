@@ -1,0 +1,12 @@
+C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.Domain\bin\Debug\net5.0\Poc.TrainingRunner.Domain.deps.json
+C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.Domain\bin\Debug\net5.0\Poc.TrainingRunner.Domain.dll
+C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.Domain\bin\Debug\net5.0\ref\Poc.TrainingRunner.Domain.dll
+C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.Domain\bin\Debug\net5.0\Poc.TrainingRunner.Domain.pdb
+C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.Domain\obj\Debug\net5.0\Poc.TrainingRunner.Domain.csproj.AssemblyReference.cache
+C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.Domain\obj\Debug\net5.0\Poc.TrainingRunner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.Domain\obj\Debug\net5.0\Poc.TrainingRunner.Domain.AssemblyInfoInputs.cache
+C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.Domain\obj\Debug\net5.0\Poc.TrainingRunner.Domain.AssemblyInfo.cs
+C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.Domain\obj\Debug\net5.0\Poc.TrainingRunner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.Domain\obj\Debug\net5.0\Poc.TrainingRunner.Domain.dll
+C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.Domain\obj\Debug\net5.0\ref\Poc.TrainingRunner.Domain.dll
+C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.Domain\obj\Debug\net5.0\Poc.TrainingRunner.Domain.pdb
