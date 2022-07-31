@@ -1,0 +1,17 @@
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\bin\Debug\net6.0\Poc.Trainning.Infra.Sql.deps.json
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\bin\Debug\net6.0\Poc.Trainning.Infra.Sql.runtimeconfig.json
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\bin\Debug\net6.0\Poc.Trainning.Infra.Sql.dll
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\bin\Debug\net6.0\ref\Poc.Trainning.Infra.Sql.dll
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\bin\Debug\net6.0\Poc.Trainning.Infra.Sql.pdb
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\bin\Debug\net6.0\Poc.Training.Domain.dll
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\bin\Debug\net6.0\Poc.Training.Domain.pdb
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\obj\Debug\net6.0\Poc.Trainning.Infra.Sql.csproj.AssemblyReference.cache
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\obj\Debug\net6.0\Poc.Trainning.Infra.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\obj\Debug\net6.0\Poc.Trainning.Infra.Sql.AssemblyInfoInputs.cache
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\obj\Debug\net6.0\Poc.Trainning.Infra.Sql.AssemblyInfo.cs
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\obj\Debug\net6.0\Poc.Trainning.Infra.Sql.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\obj\Debug\net6.0\Poc.Trainning.Infra.Sql.csproj.CopyComplete
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\obj\Debug\net6.0\Poc.Trainning.Infra.Sql.dll
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\obj\Debug\net6.0\ref\Poc.Trainning.Infra.Sql.dll
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\obj\Debug\net6.0\Poc.Trainning.Infra.Sql.pdb
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Trainning.Infra.Sql\obj\Debug\net6.0\Poc.Trainning.Infra.Sql.genruntimeconfig.cache

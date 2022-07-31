@@ -1,0 +1,15 @@
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain.Services\bin\Debug\net6.0\Poc.Training.Domain.Services.deps.json
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain.Services\bin\Debug\net6.0\Poc.Training.Domain.Services.dll
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain.Services\bin\Debug\net6.0\ref\Poc.Training.Domain.Services.dll
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain.Services\bin\Debug\net6.0\Poc.Training.Domain.Services.pdb
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain.Services\bin\Debug\net6.0\Poc.Training.Domain.dll
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain.Services\bin\Debug\net6.0\Poc.Training.Domain.pdb
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain.Services\obj\Debug\net6.0\Poc.Training.Domain.Services.csproj.AssemblyReference.cache
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain.Services\obj\Debug\net6.0\Poc.Training.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain.Services\obj\Debug\net6.0\Poc.Training.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain.Services\obj\Debug\net6.0\Poc.Training.Domain.Services.AssemblyInfo.cs
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain.Services\obj\Debug\net6.0\Poc.Training.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain.Services\obj\Debug\net6.0\Poc.Training.Domain.Services.csproj.CopyComplete
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain.Services\obj\Debug\net6.0\Poc.Training.Domain.Services.dll
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain.Services\obj\Debug\net6.0\ref\Poc.Training.Domain.Services.dll
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain.Services\obj\Debug\net6.0\Poc.Training.Domain.Services.pdb

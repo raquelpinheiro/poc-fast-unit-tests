@@ -1,0 +1,12 @@
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain\bin\Debug\net6.0\Poc.Training.Domain.deps.json
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain\bin\Debug\net6.0\Poc.Training.Domain.dll
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain\bin\Debug\net6.0\ref\Poc.Training.Domain.dll
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain\bin\Debug\net6.0\Poc.Training.Domain.pdb
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain\obj\Debug\net6.0\Poc.Training.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain\obj\Debug\net6.0\Poc.Training.Domain.AssemblyInfoInputs.cache
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain\obj\Debug\net6.0\Poc.Training.Domain.AssemblyInfo.cs
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain\obj\Debug\net6.0\Poc.Training.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain\obj\Debug\net6.0\Poc.Training.Domain.dll
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain\obj\Debug\net6.0\ref\Poc.Training.Domain.dll
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain\obj\Debug\net6.0\Poc.Training.Domain.pdb
+C:\Users\Raquel\repo\poc-testes-unitarios\poc-fast-unit-tests\src\Poc.Training.Domain\obj\Debug\net6.0\Poc.Training.Domain.csproj.AssemblyReference.cache

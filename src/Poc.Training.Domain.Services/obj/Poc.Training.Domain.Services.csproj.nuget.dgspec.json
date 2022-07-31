@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Raquel\\repo\\poc-testes-unitarios\\poc-fast-unit-tests\\src\\Poc.Training.Domain.Services\\Poc.Training.Domain.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Raquel\\repo\\poc-testes-unitarios\\poc-fast-unit-tests\\src\\Poc.Training.Domain.Services\\Poc.Training.Domain.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Raquel\\repo\\poc-testes-unitarios\\poc-fast-unit-tests\\src\\Poc.Training.Domain.Services\\Poc.Training.Domain.Services.csproj",
+        "projectName": "Poc.Training.Domain.Services",
+        "projectPath": "C:\\Users\\Raquel\\repo\\poc-testes-unitarios\\poc-fast-unit-tests\\src\\Poc.Training.Domain.Services\\Poc.Training.Domain.Services.csproj",
+        "packagesPath": "C:\\Users\\Raquel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raquel\\repo\\poc-testes-unitarios\\poc-fast-unit-tests\\src\\Poc.Training.Domain.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Raquel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Raquel\\repo\\poc-testes-unitarios\\poc-fast-unit-tests\\src\\Poc.Training.Domain\\Poc.Training.Domain.csproj": {
+                "projectPath": "C:\\Users\\Raquel\\repo\\poc-testes-unitarios\\poc-fast-unit-tests\\src\\Poc.Training.Domain\\Poc.Training.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Raquel\\repo\\poc-testes-unitarios\\poc-fast-unit-tests\\src\\Poc.Training.Domain\\Poc.Training.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Raquel\\repo\\poc-testes-unitarios\\poc-fast-unit-tests\\src\\Poc.Training.Domain\\Poc.Training.Domain.csproj",
+        "projectName": "Poc.Training.Domain",
+        "projectPath": "C:\\Users\\Raquel\\repo\\poc-testes-unitarios\\poc-fast-unit-tests\\src\\Poc.Training.Domain\\Poc.Training.Domain.csproj",
+        "packagesPath": "C:\\Users\\Raquel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raquel\\repo\\poc-testes-unitarios\\poc-fast-unit-tests\\src\\Poc.Training.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Raquel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

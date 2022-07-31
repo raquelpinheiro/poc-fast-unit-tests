@@ -1,7 +1,0 @@
-C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.WebApi\Poc.TrainingRunner.WebApi\obj\Debug\net5.0\Poc.TrainingRunner.WebApi.csproj.AssemblyReference.cache
-C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.WebApi\Poc.TrainingRunner.WebApi\obj\Debug\net5.0\Poc.TrainingRunner.WebApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.WebApi\Poc.TrainingRunner.WebApi\obj\Debug\net5.0\Poc.TrainingRunner.WebApi.AssemblyInfoInputs.cache
-C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.WebApi\Poc.TrainingRunner.WebApi\obj\Debug\net5.0\Poc.TrainingRunner.WebApi.AssemblyInfo.cs
-C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.WebApi\Poc.TrainingRunner.WebApi\obj\Debug\net5.0\Poc.TrainingRunner.WebApi.csproj.CoreCompileInputs.cache
-C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.WebApi\Poc.TrainingRunner.WebApi\obj\Debug\net5.0\Poc.TrainingRunner.WebApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Raquel\repo\poc-fast-unit-tests\src\Poc.TrainingRunner.WebApi\Poc.TrainingRunner.WebApi\obj\Debug\net5.0\Poc.TrainingRunner.WebApi.MvcApplicationPartsAssemblyInfo.cache

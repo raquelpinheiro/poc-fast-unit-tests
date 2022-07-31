@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "64d47f36-96cb-4d6f-9439-061fefd19f5d": {
+      "ProjectGuid": "64d47f36-96cb-4d6f-9439-061fefd19f5d",
+      "DisplayName": "Poc.Training.Api",
+      "ColorIndex": 0
+    },
+    "6f49697a-76a6-4590-bfb3-be85d8e34f32": {
+      "ProjectGuid": "6f49697a-76a6-4590-bfb3-be85d8e34f32",
+      "DisplayName": "Poc.Training.Domain",
+      "ColorIndex": 1
+    },
+    "4f000308-c4e1-46a6-adf7-e350382f9eeb": {
+      "ProjectGuid": "4f000308-c4e1-46a6-adf7-e350382f9eeb",
+      "DisplayName": "Poc.Training.Api",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "64776d5c-6cdf-4299-9578-823adc124c55": {
+      "ProjectGuid": "64776d5c-6cdf-4299-9578-823adc124c55",
+      "DisplayName": "Poc.Trainning.Infra.Sql",
+      "ColorIndex": 3
+    },
+    "eb5758c3-05eb-4875-9ead-f4aeb20773ea": {
+      "ProjectGuid": "eb5758c3-05eb-4875-9ead-f4aeb20773ea",
+      "DisplayName": "Poc.Training.Domain.Services",
+      "ColorIndex": 4
+    },
+    "d3876ef1-cfaa-41a7-9081-8bb51db5be36": {
+      "ProjectGuid": "d3876ef1-cfaa-41a7-9081-8bb51db5be36",
+      "DisplayName": "Poc.Training.Tests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

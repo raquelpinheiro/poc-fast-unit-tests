@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Poc.Training.Domain.Services/1.0.0": {
+        "dependencies": {
+          "Poc.Training.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Poc.Training.Domain.Services.dll": {}
+        }
+      },
+      "Poc.Training.Domain/1.0.0": {
+        "runtime": {
+          "Poc.Training.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Poc.Training.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Poc.Training.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R17povIQX3nSdTQ8KfrlnmO27j5epa5AWdhr6+239rI=",
+  "Source": "Poc.Training.Api",
+  "BasePath": "_content/Poc.Training.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
